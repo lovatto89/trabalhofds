@@ -1,0 +1,14 @@
+body {background-color:azure;}
+h1 {color:blue; text-align: center;}
+p {font-size: 24px; text-align: justify;}
+ul {line-height: 35px;}
+.imgcorrida {border-radius: 20px; height: 600px;}
+table, th, td {
+        border: 3px solid blue;
+        border-collapse: collapse;
+        padding: 5px 2px}
+th, td {color: blue}
+table{ font-size: 20px;; width: 60%; text-align: center;}
+.imgtable {border-radius: 20px; height: 300px;}
+a {line-height: 100px; text-align: center;}
+.linkext:hover {color:darkslategrey}
